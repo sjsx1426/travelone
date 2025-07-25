@@ -1,0 +1,14 @@
+.footer{
+    /* border: solid olivedrab; */
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    background-color: black;
+    color: white;
+}
+.footer-link a{
+    color: white;
+}

@@ -1,0 +1,30 @@
+#hero-section{
+    width: 100% ;
+    height: 100%;
+    background-color: white;
+    padding-top: 150px ;
+
+    background-image: url(../images/heroSectionBGImage.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+#landingContainer{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2vh;
+}
+#landingContainer h1{
+    font-size: 48px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#landingContainer p{
+    font: 18px;
+}
+    

@@ -1,0 +1,29 @@
+.destinationSection{
+    min-height: 90vh;
+    width: 100%;
+    background-color: #95a6b5;
+
+    padding: 0 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+}
+.destinationSection button{
+    background-color: transparent;
+    border: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.destination{
+   width: 90%;
+   min-height: 70vh;
+   background-color: rebeccapurple;
+   border-radius: 20px;
+   background-image: url('https://images.unsplash.com/photo-1675677044118-3fd84f9deaf0?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGhhbmphdnVyJTIwcGVyaXlhJTIwa292aWx8ZW58MHx8MHx8fDA%3D');
+   background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
